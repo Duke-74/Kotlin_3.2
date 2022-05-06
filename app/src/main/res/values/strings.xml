@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kotlin_3.2</string>
+    <string name="show_site">Веб-сайт</string>
+    <string name="show_map">Карта</string>
+    <string name="phone_call">Телефон</string>
+    <string name="activate">Активировать</string>
+</resources>
